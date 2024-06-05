@@ -1,0 +1,11 @@
+{
+  "name": "entregavel-4",
+  "version": "1.0.0",
+  "description": "Teste de codigos do entregável 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lemos, Ramon",
+  "license": "ISC"
+}
